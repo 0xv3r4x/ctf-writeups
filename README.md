@@ -14,6 +14,7 @@ This is a collection of CTF writeups.  Included in each is a Markdown file, whic
 - [Game Zone](Game%20Zone/README.md) (*Easy*) - Learn to hack into this machine.  Understand how to use SQLMap, crack some passwords, reveal services using a reverse SSH tunnel and escalate your privileges to root!
 - [Guidepoint CTF 2021](Guidepoint%20CTF%202021) (*Easy-Medium*)
 - [HackPark](HackPark/README.md) (*Medium*) - Bruteforce a websites login with Hydra, identify and use a public exploit then escalate your privileges on this Windows machine!
+- [HacktivityCon 2021](HacktivityCon%202021/README.md) (*Easy-Hard*)
 - [HTB x Uni CTF 2020 Quals](HTB%20x%20Uni%20CTF%202020/README.md) (*Easy-Hard*) - Hack The Box University CTF 2020 is our annual online hacking competition open to University teams from all over the world. By participating in this event with your University, you will have the opportunity to showcase your hacking skills and win fantastic prizes.
 - [Ignite](Ignite/README.md) (*Easy*) - A new start-up has a few issues with their web server
 - [Internal](Internal/README.md) (*Hard*) - Penetration Testing Challenge
