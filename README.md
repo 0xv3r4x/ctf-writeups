@@ -20,10 +20,10 @@ This is a collection of CTF writeups.  Included in each is a Markdown file, whic
 - [Kenobi](Kenobi/README.md) (*Easy*) - Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation
 - [Mr Robot CTF](Mr%20Robot%20CTF/README.md) (*Medium*) - Based on the Mr. Robot show, can you root this box?
 - [Overpass 2 - Hacked](Overpass%202%20-%20Hacked/README.md) (*Easy*) - Overpass has been hacked! Can you analyse the attacker's action and hack back in?
-- [Pickle Rick][Pickle%20Rick/README.md] (*Easy*) - A Rick and Morty CTF.  Help turn Rick back into a human!
+- [Pickle Rick](Pickle%20Rick/README.md) (*Easy*) - A Rick and Morty CTF.  Help turn Rick back into a human!
 - [Relevant](Relevant/README.md) (*Hard*) - Penetration Testing Challenge
 - [RootMe](RootMe/README.md) (*Easy*) - A ctf for beginners, can you root me?
 - [Skynet](Skynet/README.md) (*Easy*) - A vulnerable Terminator themed Linux machine
 - [Steel Mountain](Steel%20Mountain/README.md) (*Easy*) - Hack into a Mr. Robot themed Windows machine.  Use metasploit for initial access, utilise powershell for Windows privilege escalation enumeration and learn a new technique to get Administrator access
-- [The Great Escape](The%20Great%20Escape/README.md) - Our devs have created an awesome new site.  Can you break out of the sandbox?
-- [Wonderland](Wonderland/README.md) - Fall down the rabbit hole and enter wonderland
+- [The Great Escape](The%20Great%20Escape/README.md) (*Medium*) - Our devs have created an awesome new site.  Can you break out of the sandbox?
+- [Wonderland](Wonderland/README.md) (*Medium*) - Fall down the rabbit hole and enter wonderland
