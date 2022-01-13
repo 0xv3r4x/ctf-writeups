@@ -1,0 +1,36 @@
+# Target Practice | Warmups
+
+*Can you hit a moving target?*
+
+Note, this flag contains only 24 hexadecimal characters
+
+Splitting up this gif into frames using [ezgif](https://ezgif.com/split)
+
+Decoding with [ZXing](https://zxing.org/w/decode.jspx)
+
+```
+nualopohofozqjvbppzbayiihremwd
+estaggvnmimpbcvtlrxortjqynieue
+nfltdablbnpzhruspiwekpinumtecc
+ksdbwgcqbdbovofguzxfhpdhvwofje
+ylfjdbcwtnwdakudxdocztpnsyhwuy
+msywbrkuifxoiipkncgaprqkqwkagb
+lftpxrgwvkvacbuzxlxahwbgixjlgj
+ohtqbjogozzngudcnthdryiiqmsacj
+syqixjbncbhbtofakbnpmodydssjgd
+ygxcklwuzdwckmsmgztenvpfgbuvfw
+gaufepfyqfrsfpskkwjsrpumevymdv
+ygxcklwuzdwckmsmgztenvpfgbuvfw
+syqixjbncbhbtofakbnpmodydssjgd
+ohtqbjogozzngudcnthdryiiqmsacj
+lftpxrgwvkvacbuzxlxahwbgixjlgj
+
+flag{385e3ae5d7b2ca2510be8ef4}
+
+msywbrkuifxoiipkncgaprqkqwkagb
+ylfjdbcwtnwdakudxdocztpnsyhwuy
+ksdbwgcqbdbovofguzxfhpdhvwofje
+nfltdablbnpzhruspiwekpinumtecc
+estaggvnmimpbcvtlrxortjqynieue
+nualopohofozqjvbppzbayiihremwd
+```
